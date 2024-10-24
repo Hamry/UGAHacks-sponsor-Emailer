@@ -1,38 +1,71 @@
 First Name,Email,Company Name
-Fabio,fabio@looker.com,Looker
-Matt,matt@dynamic.xyz,Dynamic
-Brian,brian.rinaldi@localstack.cloud,LocalStack
-Steve,steve.persch@pantheon.io,Pantheon
-Trey,trey@atomicfi.com,Atomic
-Chelsea,chelsea@discovercontrolplane.com,Control Plane
-Faith,faith@grafana.com,Grafana Labs
-Bryce,bryce.kinnear@teamviewer.com,TeamViewer
-Kanishk,kanishk@fleek.xyz,Fleek
-William,will@wherobots.com,Wherobots
-Annabelle,annie@codesmith.io,Codesmith
-Abhijit,abhijit@aryn.ai,Aryn
-Soo,soopark@woowahan.com,(주)우아한형제들 (Woowa Bros.)
-Jonathan,jonathan@reverent.tv,Baboon Agency
-Anthony,anthony.vargas@blackriflecoffee.com,Black Rifle Coffee Company
-Daniella,dbatista@raincityhousing.org,RainCity Housing and Support Society
-Manisha,manisha.bakshi@spectraforce.com,SPECTRAFORCE
-Poornima,ppopali@oxfordsolutionsinc.com,Oxford Solutions
-Stephanie,stephanie.barner@dsjglobal.com,Discover International
-Alexandra,amoulinet@leapros.com,Leapros Skilled Trades
-Charles,czellie@xede.com,Xede Consulting Group
-Laura,laura.tromben@knowink.com,KNOWiNK
-Rome,rzaff@partners-staffing.com,PARTNERS Staffing
-Aashish,a.kumar@e-solutionsinc.com,E-Solutions
-Qingyu,qingyu.xu@animallogic.com,Animal Logic
-Bree,bree.silveira@airtable.com,Airtable
-Amonique,amonique.strehle@gogpac.com,gpac
-Hana,hana.blythe-santos@lovemyjob.com,Flexible IT
-Cheng,cheng.lee@ststechnicaljobs.com,STS Technical Services
-Ennor,ennor.armah@advictoriamsolutions.com,Ad Victoriam Solutions
-Josh,josh.pelham@moloco.com,Moloco
-Martha,martha.salas@joindaisy.com,Daisy
-Damanpreet,dkaur@ventois.com,Ventois
-Lynde,lynde@interiortalent.com,Interior Talent
-Gary,gzazovskiy@rfa.com,RFA
-Whitney,whitney.wigton@prospectblue.com,ProspectBlue
-Beth,beth.yarbrough@eosysgroup.com,EOSYS
+Anett,anett@golast.xyz,Last
+Sean,sean@scrt.network,Secret Network Foundation
+Rob,rob@ethereum.org,Ethereum Remix
+Lizabeth,liz@voltaicsystems.com,Voltaic Systems
+Ben,ben@arcjet.com,Arcjet
+Matthew,matthew.curtis@superawesome.com,SuperAwesome
+Mike,mike@golioth.io,Golioth
+Dylan,dylan@goat.network,GOAT Network
+Jessica,jessica@0xproject.com,0x
+Brittany,brittany@pixiebrix.com,PixieBrix
+Jonathan,jonathan@chainsafe.io,ChainSafe Gaming
+Erin,erin@papermoon.io,PaperMoon.io
+Ethan,ethan@particle.network,Particle Network
+Weston,weston@pythagora.ai,Pythagora (YC W24)
+Kevin,kevin@papermoon.io,PaperMoon.io
+Jen,jen@getsquid.ai,Squid AI
+Phil,phil.johnston@agilebits.com,1Password
+Robert,robert@apostrophecms.com,Apostrophe
+Michael,michael@gamepublx.com,GOPublX Media Relations LLC
+Bash,bashbunni@charm.sh,Charm
+Matt,mhughes@ufc.com,Ultimate Fighting Championship
+Karen,kbiondi@kana.com,KANA Software
+Stephen,stephen.chin@neo4j.com,Neo4j
+Paul,paul.mansky@bench.com,Benchmark
+Brandon,brandon_turcios@swn.com,Southwestern Energy
+Richard,rcohen@dataseers.ai,DataSeers
+Marco,mronning@brex.com,Brex
+Monica,monica@hellosign.com,Dropbox
+Brenda,brenda@remote.it,Remote.It - Connectivity as Code
+Dana,dana@devrel.agency,DevRel.Agency
+Bobur,bobur@glassflow.dev,GlassFlow.dev
+Michael,michael@cookbook.dev,Cookbook.dev
+Upasana,upasana@sqlitecloud.io,SQLite Cloud
+Arisa,arisa@panic.com,"Panic, Inc."
+Arthur,arthur.kawamoto@wbgames.com,Warner Bros. Interactive Entertainment
+Stephanie,stephanie@devreltalent.io,DevRel Talent
+Ken,kenrimple@honeycomb.io,Honeycomb
+Tarric,tarric.sookdeo@jpmorgan.com,JPMorganChase
+Julie,julie.hubschman@fisglobal.com,FIS
+Matt,m.snow@1inch.io,1inch Network
+Reena,reena.leone@imply.io,Imply
+Mike,mike.gullo@playbackbone.com,Backbone
+Shari,slacy@anthemrepublic.com,Anthem Republic
+Pam,pam.snow@sagepub.com,Sage
+June,june@tailor.tech,Tailor
+Mark,mark.obee@servicenow.com,ServiceNow
+Anders,ao@kamet.ai,Kamet AI
+Jon,jon@arch.network,Arch Network
+Vasanth,vasanth.mohan@sambanovasystems.com,SambaNova Systems
+Jonathan,jonathan.c.sokoll@lmco.com,Lockheed Martin
+Jordan,jordan@nervos.org,Nervos Foundation
+George,george@accusolar.com,AccuSolar
+Kristenn,kristenn@getnacelle.com,Nacelle
+Roger,roger.kibbe@samsung.com,Samsung Research America (SRA)
+Kassidy,kassidy@valvesoftware.com,Valve corporation
+Mikiko,mikiko@fireworks.ai,Fireworks AI
+Shubham,ssaboo@tenstorrent.com,Tenstorrent
+Stacey,skruczek@aerospike.com,Aerospike
+Bob,bob.loya@scopely.com,Scopely
+Alexzander,alexzander.stone@aptoslabs.com,Aptos Labs
+Angie,angiej@tbd.email,TBD
+Garrett,garrett.moehring@paramount.com,Paramount
+Ethan,ethan.kaiser@se.com,Schneider Electric Sustainability Business
+Jeff,jeff.strauss@progress.com,Progress
+Elizabeth,elizabeth.hammond@abrdn.com,abrdn
+Bryan,bryan@procedural-worlds.com,Procedural Worlds Inc
+Nathaniel,nbauer@wolfram.com,Wolfram
+Christopher,christopher.eiffert@verizonwireless.com,Verizon
+Angie,angie_vorderlandwehr@corvel.com,CorVel Corporation
+Rolando,rolando@amoreproduce.com,Amore Produce LLC
