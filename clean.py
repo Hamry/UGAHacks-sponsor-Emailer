@@ -34,4 +34,4 @@ def clean(path):
     return 'data/check.csv'
 
 if __name__ == '__main__':
-    clean('data\\10_23_24.csv')
+    clean('data\Details_20241104153328.csv')
